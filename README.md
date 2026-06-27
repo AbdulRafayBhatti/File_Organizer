@@ -122,19 +122,19 @@ Python-File-Organizer/
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/yourusername/Python-File-Organizer.git
+git clone https://github.com/AbdulRafayBhatti/File_Organizer.git
 ```
 
 2. Navigate to the project directory.
 
 ```bash
-cd Python-File-Organizer
+cd File_Organizer
 ```
 
 3. Run the script.
 
 ```bash
-python organizer.py
+FileSorter.py
 ```
 
 4. Enter the folder path you want to organize.
