@@ -12,38 +12,6 @@ Managing folders with hundreds of mixed files can be time-consuming.
 
 This script scans a selected directory, identifies each file's extension, creates a folder for that extension (if it doesn't already exist), and moves the file into the corresponding folder.
 
-For example:
-
-```text
-Before:
-Downloads/
-│
-├── report.pdf
-├── image.png
-├── notes.txt
-├── music.mp3
-└── project.zip
-```
-
-```text
-After:
-Downloads/
-│
-├── PDF/
-│   └── report.pdf
-│
-├── PNG/
-│   └── image.png
-│
-├── TXT/
-│   └── notes.txt
-│
-├── MP3/
-│   └── music.mp3
-│
-└── ZIP/
-    └── project.zip
-```
 
 ---
 
