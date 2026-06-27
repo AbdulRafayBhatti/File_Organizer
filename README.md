@@ -77,9 +77,9 @@ Sorting Finished
 # 📂 Project Structure
 
 ```text
-Python-File-Organizer/
+File_Organizer/
 │
-├── organizer.py
+├── FileSorter.py
 └── README.md
 ```
 
@@ -111,7 +111,7 @@ Example:
 
 ```text
 Enter the folder path you want to sort:
-C:\Users\Rafay\Downloads
+C:\Users\userXYZ\Downloads
 ```
 
 ---
